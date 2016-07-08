@@ -2,7 +2,7 @@
 # about: Index forum topics in Solr
 # version: 0.1.0
 # authors: Nate Flood for ECHO Inc
-# url: TODO
+# url: https://github.com/ECHOInternational/discourse-solr-indexing
 
 gem "rsolr", "1.1.1"
 
